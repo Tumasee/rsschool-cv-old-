@@ -1,0 +1,17 @@
+html {
+  text-align: center;
+}
+h3,
+h4,
+span,
+a {
+  padding: 5px;
+  margin: 5px;
+}
+h3 {
+  color: blueviolet;
+}
+img {
+  width: 200px;
+  height: 250px;
+}
